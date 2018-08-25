@@ -209,46 +209,60 @@
             <version>4.9</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-		<!-- <dependency>
+		 <dependency>
 		    <groupId>org.apache.poi</groupId>
 		    <artifactId>poi-ooxml</artifactId>
 		    <version>3.17</version>
-		</dependency> -->
+		</dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-		<!-- <dependency>
+		<dependency>
 		    <groupId>org.apache.poi</groupId>
 		    <artifactId>poi</artifactId>
 		    <version>3.17</version>
-		</dependency> -->
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
+		<dependency>
+		    <groupId>org.apache.poi</groupId>
+		    <artifactId>poi-ooxml-schemas</artifactId>
+		    <version>3.17</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-examples -->
+		<dependency>
+		    <groupId>org.apache.poi</groupId>
+		    <artifactId>poi-examples</artifactId>
+		    <version>3.17</version>
+		</dependency>
+		
+		
 		
 	<!-- apache poi 3.9 begin-->
 	
 	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-	<dependency>
+	<!-- <dependency>
 	    <groupId>org.apache.poi</groupId>
 	    <artifactId>poi</artifactId>
 	    <version>3.9</version>
-	</dependency>
+	</dependency> -->
 	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-	<dependency>
+	<!-- <dependency>
 	    <groupId>org.apache.poi</groupId>
 	    <artifactId>poi-ooxml</artifactId>
 	    <version>3.9</version>
-	</dependency>
+	</dependency> -->
 	
 	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
-	<dependency>
+	<!-- <dependency>
 	    <groupId>org.apache.poi</groupId>
 	    <artifactId>poi-ooxml-schemas</artifactId>
 	    <version>3.9</version>
-	</dependency>
+	</dependency> -->
 	
 	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-examples -->
-	<dependency>
+	<!-- <dependency>
 	    <groupId>org.apache.poi</groupId>
 	    <artifactId>poi-examples</artifactId>
 	    <version>3.9</version>
-	</dependency>
+	</dependency> -->
 	<!-- apache poi 3.9 end-->
         
   </dependencies>
